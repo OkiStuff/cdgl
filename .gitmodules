@@ -1,0 +1,3 @@
+[submodule "deps/riot-lcd-sdl2"]
+	path = deps/riot-lcd-sdl2
+	url = https://github.com/okistuff/riot-lcd-sdl2.git
